@@ -138,12 +138,14 @@ main{
     height: 100%;
 }
 #main-title{
+    color: var(--Very-dark-blue);
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 3;
-    font-size: 3rem;
+    font-size: 3.4rem;
     font-weight: 800;
+    line-height: 1;
 }
 .group{
     grid-column-start: 2;
